@@ -74,7 +74,7 @@ a:first-child {
 
 /* Article Paragraph Text should have line height of 200%*/
 
-article < p {
+article section p {
   line-height: 200%;
 }
 
